@@ -1,0 +1,9 @@
+Package: com.abdullah.igstorypip
+Name: IGStoryPIP
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Enable Picture in picture in story for instagram to add many photos in one photo
+Maintainer: Abdullah
+Author: Abdullah
+Section: Tweaks
